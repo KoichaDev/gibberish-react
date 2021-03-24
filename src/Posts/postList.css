@@ -1,0 +1,7 @@
+.list {
+    display: inline-block;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    border: 1px solid black;
+}
